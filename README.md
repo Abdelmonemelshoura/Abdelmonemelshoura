@@ -14,7 +14,7 @@
 - 🎓 &nbsp; *Masterarbeit* – KI-gestütztes Mini-Drohnen-Tracking und Flugsteuerung.
 - 💼 &nbsp; *Karriereziel:* Direkteinstieg als *Embedded Software Entwickler*.
 - 🌱 &nbsp; *Interessengebiete:* Embedded Software, Mikrocontroller, STM32, Embedded Linux, AUTOSAR, Computer Vision und KI.
-- 📫 &nbsp; *Kontakt:*  [![GMAIL](https://img.shields.io/badge/abdelmonemelshoura@gmail.com-EA4335?style=social&logo=gmail&logoColor=EA4335)](mailto:abdelmonemelshoura@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)][![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/abdelmonem-elshoura-emb/)
+- 📫 &nbsp; *Kontakt:*  [![GMAIL](https://img.shields.io/badge/abdelmonemelshoura@gmail.com-EA4335?style=social&logo=gmail&logoColor=EA4335)](mailto:abdelmonemelshoura@gmail.com)![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/abdelmonem-elshoura-emb/)
 
 <h3>  &nbsp;🛠️ Programmiersprachen & Technologien:</h3>
 
