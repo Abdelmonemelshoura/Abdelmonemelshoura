@@ -58,7 +58,7 @@
 </details>
 
 <details>
-<summary>📊 Aktivitätsdiagramm</summary>
+<summary>👀 Besucherstatistik</summary>
     <img src="wakatime/stats.svg" height="320">
     <a href="https://u8views.com/github/Abdelmonemelshoura"><img src="https://u8views.com/api/v1/github/profiles/87497372/views/day-week-month-total-count.svg"></a>
 </details>
