@@ -50,7 +50,7 @@
 <br>
 
 <div align="center">
-<sub>✨ Die Statistiken werden automatisch aktualisiert <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Abdelmonemelshoura&query=$.updated_at&label=updated&color=7F95D1" alt="Zuletzt aktualisiert" /></sub>
+<sub>✨ Die Statistiken werden automatisch aktualisiert <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Abdelmonemelshoura&query=$.updated_at&label=aktualisiert&color=7F95D1" alt="Zuletzt aktualisiert" /></sub>
 
 <summary>📊 GitHub-Aktivitäten</summary>
     <img src="wakatime/stats.svg" height="320">
