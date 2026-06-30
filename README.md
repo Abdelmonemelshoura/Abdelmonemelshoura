@@ -46,50 +46,8 @@
 <div align="center">
 <sub>✨ Die Statistiken werden automatisch aktualisiert <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Abdelmonemelshoura&query=$.updated_at&label=aktualisiert&color=7F95D1" alt="aktualisiert" /></sub>
 </div>
-
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 👀 Besucherstatistik
 
   <a href="https://u8views.com/github/Abdelmonemelshoura"><img src="https://u8views.com/api/v1/github/profiles/87497372/views/day-week-month-total-count.svg"/> </a>
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-  <summary> 🤣 Bonus Fun Zone </summary>
-  <div align="center">
-
-  <!-- Meme GIFs -->
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="When it finally compiles"/>  
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQwaGM3NzB4Yjc3NXpmd3loMHJqZHg1dGZobnp4aXgxMGpobjJuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFkiFMDg3iFoI/giphy.gif" width="500" alt="When it finally compiles"/>
-  <img src="https://preview.redd.it/a-original-meme-based-on-a-real-experience-v0-mk38iven8zm91.jpg?width=640&crop=smart&auto=webp&s=9924450d07e6bb8253eb8030796b652f6131883c" width="500" alt="code backup"/>  
-  
-  <br><br>
-
-  <!-- Funny Dev Quotes -->
-  <b>💡 Dev Quotes & Truths</b>  
-
-  > "It works on my machine." – Every Developer Ever  
-  >  
-  > "Programming is 10% writing code and 90% fixing why it didn’t work."  
-  >  
-  > "There are two ways to write error-free programs; only the third one works." 😅  
-  >  
-  > "To understand recursion, you must first understand recursion." 🔁  
-
-  <br><br>
-
-  <!-- Jokes Widgets -->
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Random Joke"/>  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>  
-
-  <br><br>
-
-  <!-- Extra Easter Egg -->
-  <img src="https://media.giphy.com/media/ZebTmyvw85gnm/giphy.gif" width="200" alt="Infinite loop"/>
-  <p><i>"while(true) { coffee++; bugs--; } ☕🐞"</i></p>
-
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/NajElaoud/NajElaoud?color=orange)
-![GitHub last commit](https://img.shields.io/github/last-commit/NajElaoud/NajElaoud)
-[![ProfileViews](https://komarev.com/ghpvc/?username=NajElaoud&color=red&style=flat)](https://komarev.com/ghpvc/?username=NajElaoud)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NajElaoud.NajElaoud) 
