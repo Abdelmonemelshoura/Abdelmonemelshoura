@@ -50,7 +50,7 @@
 
 ### 📈 Aktivitäten & Beiträge
 
-<img src="https://streak-stats.demolab.com?user=NajElaoud&locale=de&mode=daily&theme=onedark&hide_border=true&border_radius=10" height="380"/>
+<img src="https://streak-stats.demolab.com?user=NajElaoud&locale=de&mode=daily&theme=onedark&hide_border=true&border_radius=10" height="180"/>
 
 </div>
 
