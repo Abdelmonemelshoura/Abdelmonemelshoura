@@ -50,11 +50,20 @@
 
 ### 📈 Aktivitäten & Beiträge
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=NajElaoud&show_icons=true&hide_border=true&theme=tokyonight&hide_title=true&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=NajElaoud&locale=de&mode=daily&theme=onedark&hide_border=true&border_radius=10" height="180"/>
-</p>
+<div style="display: flex; gap: 25px; justify-content: center; flex-wrap: wrap; align-items: center;">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Abdelmonemelshoura&show_icons=true&hide_border=true&theme=tokyonight&hide_title=true&count_private=true&include_all_commits=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Abdelmonemelshoura&show_icons=true&hide_title=true&count_private=true&include_all_commits=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Abdelmonemelshoura&show_icons=true&hide_title=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" style="min-width: 400px;" />
+  </picture>
 
+  <img src="https://streak-stats.demolab.com?user=Abdelmonemelshourad&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=10&background=45%2C0C0C0C%2C00000000&fire=FF7F50&currStreakLabel=FF7F50&ring=FF7F50" height="180" alt="GitHub Streak" style="min-width: 400px;" />
 </div>
 
 <br>
