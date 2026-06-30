@@ -50,7 +50,8 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 <br>
----
+<!-- separator -->
+<div></div>
 ### 👀 Besucherstatistik
 
 <a href="https://u8views.com/github/Abdelmonemelshoura">
