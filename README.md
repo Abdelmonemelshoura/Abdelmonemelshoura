@@ -47,7 +47,6 @@
 <sub>✨ Die Statistiken werden automatisch aktualisiert <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Abdelmonemelshoura&query=$.updated_at&label=aktualisiert&color=7F95D1" alt="Zuletzt aktualisiert" /></sub>
 </div>
 👀 Besucherstatistik
-<img src="wakatime/stats.svg" height="320">
     <a href="https://u8views.com/github/Abdelmonemelshoura"><img src="https://u8views.com/api/v1/github/profiles/87497372/views/day-week-month-total-count.svg"/> </a>
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
