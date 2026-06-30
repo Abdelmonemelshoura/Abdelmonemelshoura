@@ -47,18 +47,25 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelmonemelshoura&theme=tokyo-night&radius=12&area=true&hide_border=true&hide_title=true&height=300&color=7F95D1&line=7F95D1&point=FF7F50" alt="Aktivitätsdiagramm" />
 
+<br>
 
 <div align="center">
-<sub>✨ Stats update automatically • Last refresh: <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Aktivitätsdiagramm&query=$.updated_at&label=updated&color=7F95D1" alt="Last Updated" /></sub>
+<sub>✨ Die Statistiken werden automatisch aktualisiert <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Abdelmonemelshoura&query=$.updated_at&label=aktualisiert&color=7F95D1" alt="Zuletzt aktualisiert" /></sub>
+</div>
 
+</div>
+
+</details>
+
+<details>
 ### 👀 Besucherstatistik
-<br/>
-<p align="left"><img src="wakatime/stats.svg" height="320">
-    <a href="https://u8views.com/github/Abdelmonemelshoura"><img src="https://u8views.com/api/v1/github/profiles/87497372/views/day-week-month-total-count.svg"/> </p>
-
+<img src="wakatime/stats.svg" height="320">
+    <a href="https://u8views.com/github/Abdelmonemelshoura"><img src="https://u8views.com/api/v1/github/profiles/87497372/views/day-week-month-total-count.svg"/> </a>
+<details>
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<details>
   <summary> 🤣 Bonus Fun Zone </summary>
   <div align="center">
 
