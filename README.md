@@ -45,7 +45,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelmonemelshoura&theme=tokyo-night&radius=12&area=true&hide_border=true&hide_title=true&height=300&color=7F95D1&line=7F95D1&point=FF7F50" alt="Aktivitätsdiagramm"/>
 
 <div align="center">
-<sub>✨ Die Statistiken werden automatisch aktualisiert <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Abdelmonemelshoura&query=$.updated_at&label=updated&color=7F95D1" alt="aktualisiert" /></sub>
+<sub>✨ Die Statistiken werden automatisch aktualisiert <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Abdelmonemelshoura&query=$.updated_at&label=Zuletzt aktualisert&color=7F95D1" alt="aktualisiert" /></sub>
   
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
