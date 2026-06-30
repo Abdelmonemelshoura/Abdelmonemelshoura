@@ -52,8 +52,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Abdelmonemelshoura&show_icons=true&hide_border=true&theme=tokyonight&hide_title=true&count_private=true&include_all_commits=true" height="180"/>
 
-<img src="https://streak-stats.demolab.com?user=Abdelmonemelshoura&locale=de&mode=daily&theme=onedark&hide_border=true&border_radius=10" height="180"/>
-
 </div>
 
 <br>
