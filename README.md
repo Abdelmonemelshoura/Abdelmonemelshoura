@@ -41,7 +41,7 @@
 ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat)
   
 
-###📊 GitHub Stats
+### 📊 GitHub Stats
 
 <br>
 
