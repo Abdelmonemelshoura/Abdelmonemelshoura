@@ -40,6 +40,7 @@
 ![ESP32](https://img.shields.io/badge/ESP32-%23222?style=flat&logo=espressif&logoColor=E7352C)
 ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat)
   
+---
 
 ### 📊 Aktivitätsdiagramm
 
