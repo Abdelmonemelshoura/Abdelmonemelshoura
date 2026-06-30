@@ -50,7 +50,7 @@
 
 ### 🔥 Beitragsverlauf
 
-<img src="https://streak-stats.demolab.com?user=NajElaoud&locale=de&mode=daily&theme=onedark&hide_border=true&border_radius=10" width="75%"/>
+<img src="https://streak-stats.demolab.com?user=NajElaoud&locale=de&mode=daily&theme=onedark&hide_border=true&border_radius=10" width="70%"/>
 
 </div>
 
