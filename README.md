@@ -40,7 +40,8 @@
 ![ESP32](https://img.shields.io/badge/ESP32-%23222?style=flat&logo=espressif&logoColor=E7352C)
 ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat)
   
-
+<br>
+---
 ### 📊 GitHub-Statistiken
 <div align="center">
 
@@ -52,7 +53,8 @@
 </p>
 
 </div>
-
+<br>
+---
 ### 📊 Aktivitätsdiagramm
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelmonemelshoura&theme=tokyo-night&radius=12&area=true&hide_border=true&hide_title=true&height=300&color=7F95D1&line=7F95D1&point=FF7F50" alt="Aktivitätsdiagramm"/>
