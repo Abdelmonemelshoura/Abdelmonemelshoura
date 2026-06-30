@@ -58,9 +58,9 @@
 </details>
 
 <details>
-<summary>📊 GitHub Activities</summary>
+<summary>📊 Aktivitätsdiagramm</summary>
     <img src="wakatime/stats.svg" height="320">
-    <a href="https://u8views.com/github/NajElaoud"><img src="https://u8views.com/api/v1/github/profiles/87497372/views/day-week-month-total-count.svg"></a>
+    <a href="https://u8views.com/github/Abdelmonemelshoura"><img src="https://u8views.com/api/v1/github/profiles/87497372/views/day-week-month-total-count.svg"></a>
 </details>
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
