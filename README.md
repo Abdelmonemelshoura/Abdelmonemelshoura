@@ -53,10 +53,6 @@
 
 </div>
 
-<br>
-
----
-
 ### 📊 Aktivitätsdiagramm
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelmonemelshoura&theme=tokyo-night&radius=12&area=true&hide_border=true&hide_title=true&height=300&color=7F95D1&line=7F95D1&point=FF7F50" alt="Aktivitätsdiagramm"/>
