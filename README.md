@@ -45,13 +45,12 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📊 Aktivitätsdiagramm
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NajElaoud&theme=tokyo-night&radius=12&area=true&hide_border=true&hide_title=true&height=300&color=7F95D1&line=7F95D1&point=FF7F50" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelmonemelshoura&theme=tokyo-night&radius=12&area=true&hide_border=true&hide_title=true&height=300&color=7F95D1&line=7F95D1&point=FF7F50" alt="Aktivitätsdiagramm" />
 
-<br>
 
 <div align="center">
-<sub>✨ Stats update automatically • Last refresh: <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/NajElaoud&query=$.updated_at&label=updated&color=7F95D1" alt="Last Updated" /></sub>
-<br/>
+<sub>✨ Stats update automatically • Last refresh: <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Aktivitätsdiagramm&query=$.updated_at&label=updated&color=7F95D1" alt="Last Updated" /></sub>
+
 ### 👀 Besucherstatistik
 <br/>
 <p align="left"><img src="wakatime/stats.svg" height="320">
