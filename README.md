@@ -44,7 +44,7 @@
 ### 📊 GitHub-Statistiken
 <div align="center">
 
-### 📈 Activitäten& Beiträge
+### 📈 Activitäten & Beiträge
 
 <p>
   <img src="https://streak-stats.demolab.com?user=Abdelmonemelshoura&theme=onedark&hide_border=true&border_radius=10" height="180"/>
@@ -62,8 +62,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
-
-
 ### 👀 Besucher
 
 <a href="https://u8views.com/github/Abdelmonemelshoura">
