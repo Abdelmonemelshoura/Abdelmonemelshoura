@@ -51,8 +51,9 @@
 
 <div align="center">
 <sub>✨ Stats update automatically • Last refresh: <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/NajElaoud&query=$.updated_at&label=updated&color=7F95D1" alt="Last Updated" /></sub>
-
+<br/>
 ### 👀 Besucherstatistik
+<br/>
 <p align="left"><img src="wakatime/stats.svg" height="320">
     <a href="https://u8views.com/github/Abdelmonemelshoura"><img src="https://u8views.com/api/v1/github/profiles/87497372/views/day-week-month-total-count.svg"/> </p>
 
