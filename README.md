@@ -51,21 +51,14 @@
 
 <div align="center">
 <sub>✨ Stats update automatically • Last refresh: <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/NajElaoud&query=$.updated_at&label=updated&color=7F95D1" alt="Last Updated" /></sub>
-</div>
 
-</div>
-
-</details>
-
-<details>
 ### 👀 Besucherstatistik
     <img src="wakatime/stats.svg" height="320">
     <a href="https://u8views.com/github/Abdelmonemelshoura"><img src="https://u8views.com/api/v1/github/profiles/87497372/views/day-week-month-total-count.svg"></a>
-</details>
+
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<details>
   <summary> 🤣 Bonus Fun Zone </summary>
   <div align="center">
 
@@ -98,9 +91,6 @@
   <!-- Extra Easter Egg -->
   <img src="https://media.giphy.com/media/ZebTmyvw85gnm/giphy.gif" width="200" alt="Infinite loop"/>
   <p><i>"while(true) { coffee++; bugs--; } ☕🐞"</i></p>
-
-  </div>
-</details>
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
