@@ -46,8 +46,9 @@
 
 <div align="center">
 <sub>✨ Die Statistiken werden automatisch aktualisiert</sub>
-</div>
+  
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 <br>
 ### 👀 Besucherstatistik
 
