@@ -8,13 +8,13 @@
 
 <h3> 👨🏻‍💻 &nbsp;Über mich </h3>
 
-Ich bin *Berufseinsteiger im Bereich Embedded Software Engineering* mit rund *zwei Jahren praktischer Projekterfahrung* in der Entwicklung eingebetteter Systeme. Mein Schwerpunkt liegt auf Mikrocontrollern, Embedded C, STM32, Embedded Linux und AUTOSAR. Aktuell suche ich eine *Direkteinstiegsposition* als Embedded Software Engineer, um mein Wissen in anspruchsvollen Industrieprojekten einzusetzen und weiter auszubauen.
+<p align="justify">Ich bin *Berufseinsteiger im Bereich Embedded Software Engineering* mit rund *zwei Jahren praktischer Projekterfahrung* in der Entwicklung eingebetteter Systeme. Mein Schwerpunkt liegt auf Mikrocontrollern, Embedded C, STM32, Embedded Linux und AUTOSAR. Aktuell suche ich eine *Direkteinstiegsposition* als Embedded Software Engineer, um mein Wissen in anspruchsvollen Industrieprojekten einzusetzen und weiter auszubauen.</p>
 
 - 🎓 &nbsp; *Master of Science in Mechatronik* – Universität Duisburg-Essen.
 - 🎓 &nbsp; *Masterarbeit* – KI-gestütztes Mini-Drohnen-Tracking und Flugsteuerung.
 - 💼 &nbsp; *Karriereziel:* Direkteinstieg als *Embedded Software Entwickler*.
 - 🌱 &nbsp; *Interessengebiete:* Embedded Software, Mikrocontroller, STM32, Embedded Linux, AUTOSAR, Computer Vision und KI.
-- 📫 &nbsp; *Kontakt:* [![GMAIL](https://img.shields.io/badge/najdelaoud4@gmail.com-EA4335?style=social&logo=gmail&logoColor=EA4335)](abddelmonemelshoura@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=social&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/najd-elaoud-504468204](https://www.linkedin.com/in/abdelmonem-elshoura-emb/))
+- 📫 &nbsp; *Kontakt:* [![GMAIL](https://img.shields.io/badge/abdelmonemelshoura@gmail.com-EA4335?style=social&logo=gmail&logoColor=EA4335)][![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=social&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/abdelmonem-elshoura-emb/))
 
 <h3>  &nbsp;🛠️ Programmiersprachen & Technologien:</h3>
 
@@ -43,14 +43,14 @@ Ich bin *Berufseinsteiger im Bereich Embedded Software Engineering* mit rund *zw
 <br/>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### 📊 Activity Graph
+### 📊 Aktivitätsdiagramm
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NajElaoud&theme=tokyo-night&radius=12&area=true&hide_border=true&hide_title=true&height=300&color=7F95D1&line=7F95D1&point=FF7F50" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelmonemelshoura&theme=tokyo-night&radius=12&area=true&hide_border=true&hide_title=true&height=300&color=7F95D1&line=7F95D1&point=FF7F50" alt="Aktivitätsdiagramm" />
 
 <br>
 
 <div align="center">
-<sub>✨ Stats update automatically • Last refresh: <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/NajElaoud&query=$.updated_at&label=updated&color=7F95D1" alt="Last Updated" /></sub>
+<sub>✨ Die Statistiken werden automatisch aktualisiert <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Abdelmonemelshoura&query=$.updated_at&label=updated&color=7F95D1" alt="Zuletzt aktualisiert" /></sub>
 </div>
 
 </div>
@@ -58,9 +58,9 @@ Ich bin *Berufseinsteiger im Bereich Embedded Software Engineering* mit rund *zw
 </details>
 
 <details>
-<summary>📊 GitHub Activities</summary>
+<summary>📊 GitHub-Aktivitäten</summary>
     <img src="wakatime/stats.svg" height="320">
-    <a href="https://u8views.com/github/NajElaoud"><img src="https://u8views.com/api/v1/github/profiles/87497372/views/day-week-month-total-count.svg"></a>
+    <a href="https://u8views.com/github/Abdelmonemelshoura"><img src="https://u8views.com/api/v1/github/profiles/87497372/Aufrufe/Tag-Woche-Monat-Gesamt-count.svg"></a>
 </details>
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
