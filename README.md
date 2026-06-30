@@ -49,33 +49,32 @@
 
 ### 📈 Activity & Contributions
 
-<div style="display: flex; gap: 25px; justify-content: center; flex-wrap: wrap; align-items: center;">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=NajElaoud&show_icons=true&hide_border=true&theme=tokyonight&hide_title=true&count_private=true&include_all_commits=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=NajElaoud&show_icons=true&hide_title=true&count_private=true&include_all_commits=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=NajElaoud&show_icons=true&hide_title=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" style="min-width: 400px;" />
-  </picture>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelmonemelshoura&show_icons=true&hide_border=true&theme=tokyonight&hide_title=true&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Abdelmonemelshoura&theme=onedark&hide_border=true&border_radius=10" height="180"/>
+</p>
 
-  <img src="https://streak-stats.demolab.com?user=NajElaoud&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=10&background=45%2C0C0C0C%2C00000000&fire=FF7F50&currStreakLabel=FF7F50&ring=FF7F50" height="180" alt="GitHub Streak" style="min-width: 400px;" />
 </div>
+
+<br>
+
+---
 
 ### 📊 Aktivitätsdiagramm
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelmonemelshoura&theme=tokyo-night&radius=12&area=true&hide_border=true&hide_title=true&height=300&color=7F95D1&line=7F95D1&point=FF7F50" alt="Aktivitätsdiagramm"/>
 
 <div align="center">
-<sub>✨ Die Statistiken werden automatisch aktualisiert <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Abdelmonemelshoura&query=$.updated_at&label=aktualisert&color=7F95D1" alt="aktualisiert" /></sub>
-  
+<sub>✨ Die Statistiken werden automatisch aktualisiert</sub>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-👀 Besucherstatistik
+<br>
+
+---
+
+### 👀 Besucherstatistik
 
 <a href="https://u8views.com/github/Abdelmonemelshoura">
   <img src="https://u8views.com/api/v1/github/profiles/87497372/views/day-week-month-total-count.svg"/>
