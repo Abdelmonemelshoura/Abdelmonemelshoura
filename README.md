@@ -49,7 +49,7 @@
 <sub>✨ Die Statistiken werden automatisch aktualisiert</sub>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<div></div>
+<div>
 
 ### 👀 Besucher
 
