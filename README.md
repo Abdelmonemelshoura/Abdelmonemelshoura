@@ -48,7 +48,7 @@
 
 <div align="center">
 
-### 📈 Aktivitäten & Beiträge
+### 🔥 Beiträge & Engagement
 
 <img src="https://streak-stats.demolab.com?user=NajElaoud&locale=de&mode=daily&theme=onedark&hide_border=true&border_radius=10" width="75%"/>
 
@@ -57,7 +57,7 @@
 <br>
 
 ---
-### 📊 Aktivitätsdiagramm
+### 📈 Aktivitätsdiagramm
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelmonemelshoura&theme=tokyo-night&radius=12&area=true&hide_border=true&hide_title=true&height=300&color=7F95D1&line=7F95D1&point=FF7F50" alt="Aktivitätsdiagramm"/>
 
@@ -68,7 +68,7 @@
 </div>
 
 
-### 👀 Besucherstatistik
+### 👀 Besucher
 <br>
 <a href="https://u8views.com/github/Abdelmonemelshoura">
   <img src="https://u8views.com/api/v1/github/profiles/87497372/views/day-week-month-total-count.svg"/>
