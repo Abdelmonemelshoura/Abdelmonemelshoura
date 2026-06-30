@@ -41,10 +41,10 @@
 ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat)
   
 
-### 📊 GitHub Stats
+### 📊 GitHub-Statistiken
 <div align="center">
 
-### 📈 Activity & Contributions
+### 📈 Activitäten& Beiträge
 
 <p>
   <img src="https://streak-stats.demolab.com?user=Abdelmonemelshoura&theme=onedark&hide_border=true&border_radius=10" height="180"/>
@@ -63,11 +63,8 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<br>
 
----
-
-### 👀 Besucherstatistik
+### 👀 Besucher
 
 <a href="https://u8views.com/github/Abdelmonemelshoura">
   <img src="https://u8views.com/api/v1/github/profiles/87497372/views/day-week-month-total-count.svg"/>
