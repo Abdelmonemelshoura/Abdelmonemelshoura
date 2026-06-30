@@ -47,9 +47,10 @@
 <div align="center">
 <sub>✨ Die Statistiken werden automatisch aktualisiert</sub>
   
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 <br>
+---
 ### 👀 Besucherstatistik
 
 <a href="https://u8views.com/github/Abdelmonemelshoura">
