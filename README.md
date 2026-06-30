@@ -8,7 +8,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;Über mich </h3>
 
-<p align="justify">Ich bin *Berufseinsteiger im Bereich Embedded Software Engineering* mit rund *zwei Jahren praktischer Projekterfahrung* in der Entwicklung eingebetteter Systeme. Mein Schwerpunkt liegt auf Mikrocontrollern, Embedded C, STM32, Embedded Linux und AUTOSAR. Aktuell suche ich eine *Direkteinstiegsposition* als Embedded Software Entwickler.</p>
+<p align="justify">Ich bin Berufseinsteiger im Bereich Embedded Software Engineering mit rund zwei Jahren praktischer Projekterfahrung in der Entwicklung eingebetteter Systeme. Mein Schwerpunkt liegt auf Mikrocontrollern, Embedded C, STM32, Embedded Linux und AUTOSAR. Aktuell suche ich eine Direkteinstiegsposition als Embedded Software Entwickler.</p>
 
 - 🎓 &nbsp; *Master of Science in Mechatronik* – Universität Duisburg-Essen.
 - 🎓 &nbsp; *Masterarbeit* – KI-gestütztes Mini-Drohnen-Tracking und Flugsteuerung.
